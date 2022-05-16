@@ -1,0 +1,2 @@
+RewriteEngine on
+FallbackResource /api/redis/index.php
